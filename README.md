@@ -1,1 +1,1 @@
-# discovery
+# SOLENT Discovery Day
